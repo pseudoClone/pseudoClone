@@ -10,3 +10,6 @@ https://hackernoon.com/how-to-improve-your-github-profile)
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pseudoClone&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="pseudoClone" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pseudoClone&theme=highcontrast&hide_border=true" alt="pseudoClone" />
 </p>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
