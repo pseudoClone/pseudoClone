@@ -1,6 +1,6 @@
 
-# 💻 Tech Stack
-I do C, C++, Perl, Python, Elisp and JS. Although frameworks usage is limited, I work with Perl-Dancer!
+# 💻 Tech
+Working with: C, C++, Perl, Bash, Python, Elisp and JS.
 
 # Areas of Interest
 - Cryptography
