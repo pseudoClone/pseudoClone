@@ -1,4 +1,3 @@
-
 # 💻 Tech
 Working with: C, C++, Perl, Bash, Python, Elisp and JS.
 
@@ -8,4 +7,4 @@ Working with: C, C++, Perl, Bash, Python, Elisp and JS.
 - Chess
 
 # Available On:
-Well, why do you need to contact me? Like bruh!
+<a href="https://dev.to/pseudoclone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="pseudoclone" height="30" width="40" /></a>
